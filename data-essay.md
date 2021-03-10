@@ -22,7 +22,7 @@ https://hubofdata.ru/dataset/titanic
 Ограничения на использованные данные отсутствуют.
 
 ### 5. Лицензия
-Creative Commons Attribution 3.0
+Creative Commons Attribution 4.0
 
 ### 6. Авторство
 Автор материала – Анна Комкова, email – ann.komkova98@gmail.com.
